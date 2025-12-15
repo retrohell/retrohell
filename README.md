@@ -7,7 +7,7 @@
 👨🏻‍🎓 Studied [Computer Science](https://www.bing.com/search?q=computer+science+engineering&qs=SS&pq=computer+science+&sc=12-17&cvid=CA3A395429FF480AACF1327A25C61987&FORM=QBRE&sp=1&ghc=1&lq=0) at Universidad Autonoma de Chihuahua<br/>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white))]([https://bsky.app/profile/retrohell](https://www.linkedin.com/in/camposvalenzuela/)) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white))]([https://bsky.app/profile/retrohell](https://www.linkedin.com/in/camposvalenzuela/) 
 
 # 💻 Tech Stack:
 
@@ -25,7 +25,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=retrohell&" alt="retrohell" /></p>
 
-### 😌 "If its a boring adventure I don’t want it."
+### -"If its a boring adventure I don’t want it."-😌
 
 ---
 [![](https://visitcount.itsvg.in/api?id=retrohell&icon=0&color=0)](https://visitcount.itsvg.in)
