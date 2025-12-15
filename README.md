@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">A passionate full-stack developer from Mexico</h3>
 
-🌱 I’m currently learning **AI intelligence** and **data science**<br/>
-🔭 I’m currently working on [Credisoluciones](https://credisoluciones.com/)<br/>
+🌱 Currently learning **AI intelligence** and **data science**<br/>
+🔭 Also I'm working on [Credisoluciones](https://credisoluciones.com/)<br/>
 📫 How to reach me irvincamposv@hotmail.com<br/>
 👨🏻‍🎓 Studied [Computer Science](https://www.bing.com/search?q=computer+science+engineering&qs=SS&pq=computer+science+&sc=12-17&cvid=CA3A395429FF480AACF1327A25C61987&FORM=QBRE&sp=1&ghc=1&lq=0) at the Faculty of Engineering in [Universidad Autónoma de Chihuahua](https://uach.mx/fing/)<br/>
 
