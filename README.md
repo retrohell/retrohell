@@ -39,9 +39,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=retrohell&" alt="retrohell" /></p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://bsky.app/profile/retrohell](https://www.linkedin.com/in/camposvalenzuela/))
-
 ### "If its a boring adventure I don’t want it."😌
 
 ---
