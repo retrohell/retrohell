@@ -34,6 +34,8 @@
 ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
 # 📊 GitHub Stats:
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=retrohell)](https://github.com/pranesh-2005/github-readme-stats-fast)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=retrohell&show_icons=true&locale=en&layout=compact" alt="retrohell" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=retrohell&show_icons=true&locale=en" alt="retrohell" /></p>
