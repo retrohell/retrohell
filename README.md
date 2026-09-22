@@ -6,10 +6,10 @@ Software and Machine Learning Engineer experienced in building backend solutions
 
 ### 💻 Tech Stack
 
-* **Languages:** C#, TypeScript, JavaScript, Python
+* **Languages:** C#/.NET, TypeScript, JavaScript, Python
 * **Backend & Web:** .NET Core, Node.js, NestJS, Angular, FastAPI
-* **Databases & Messaging:** PostgreSQL, SQL Server, NATS (JetStream), RabbitMQ
-* **ML & Cloud:** XGBoost, CatBoost, LightGBM, Docker, Docker Compose, OCI
+* **Databases & Messaging:** PostgreSQL, SQL Server, RabbitMQ
+* **ML & Cloud:** XGBoost, CatBoost, LightGBM, Supervised & Unsupervised Learning, Statistical Analysis, Azure
 
 ---
 
